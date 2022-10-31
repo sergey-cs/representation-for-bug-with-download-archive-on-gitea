@@ -6,7 +6,14 @@ This is a repository to reproduce a bug related to the appearance of unwanted gi
 
 Steps for representation: 
 1. Import/Clone this repository onto your gitea instance
+
+|⚠ |It is important to move the repository along with the LFS files|
+|---|---|
+
 ![image](https://user-images.githubusercontent.com/10897900/189641786-0d5aae07-efd1-4a4b-8ecd-7a2ce92d1403.png)
+
+![image](https://user-images.githubusercontent.com/10897900/198985257-355b4886-6aa6-4bb6-96b3-c70690364661.png)
+
 
 2. Download the repository as an archive via the Web UI
 ![image](https://user-images.githubusercontent.com/10897900/189641956-65ab702e-3c60-4324-98e8-ac126aeb7f21.png)
