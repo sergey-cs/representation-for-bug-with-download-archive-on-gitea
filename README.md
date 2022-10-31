@@ -12,7 +12,7 @@ Steps for representation:
 
 ![image](https://user-images.githubusercontent.com/10897900/189641786-0d5aae07-efd1-4a4b-8ecd-7a2ce92d1403.png)
 
-![image](https://user-images.githubusercontent.com/10897900/198985257-355b4886-6aa6-4bb6-96b3-c70690364661.png)
+![image](https://user-images.githubusercontent.com/10897900/198986300-1a707e2f-1bd0-4c81-a2ca-beff86816b69.png)
 
 
 2. Download the repository as an archive via the Web UI
@@ -20,7 +20,6 @@ Steps for representation:
 
 3. Create a PR with any modified lfs file
 ![image](https://user-images.githubusercontent.com/10897900/189642250-3eeb14e7-f2cd-429d-9cf6-af004e5825e2.png)
-
 
 4. After click on button "Create Pull Request" get error 500 and broken PR
 ![image](https://user-images.githubusercontent.com/10897900/189642485-d9a0aaa7-34fd-4544-aeb2-6ccd43e64b95.png)
