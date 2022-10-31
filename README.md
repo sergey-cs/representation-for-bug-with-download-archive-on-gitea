@@ -10,13 +10,14 @@ Steps for representation:
 |⚠ |It is important to move the repository along with the LFS files|
 |---|---|
 
-![image](https://user-images.githubusercontent.com/10897900/189641786-0d5aae07-efd1-4a4b-8ecd-7a2ce92d1403.png)
+![image](https://user-images.githubusercontent.com/10897900/198987306-edc86168-a0d1-499f-b4ce-bc32e4370485.png)
 
 ![image](https://user-images.githubusercontent.com/10897900/198986300-1a707e2f-1bd0-4c81-a2ca-beff86816b69.png)
 
 
 2. Download the repository as an archive via the Web UI
-![image](https://user-images.githubusercontent.com/10897900/189641956-65ab702e-3c60-4324-98e8-ac126aeb7f21.png)
+![image](https://user-images.githubusercontent.com/10897900/198987225-1d65da13-6f45-4514-80fd-29bff1253689.png)
+
 
 3. Create a PR with any modified lfs file
 ![image](https://user-images.githubusercontent.com/10897900/189642250-3eeb14e7-f2cd-429d-9cf6-af004e5825e2.png)
