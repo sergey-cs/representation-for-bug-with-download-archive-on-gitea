@@ -22,7 +22,7 @@ Steps for representation:
 
 3. Create a PR with any modified lfs file
 
-![image](https://user-images.githubusercontent.com/10897900/189642250-3eeb14e7-f2cd-429d-9cf6-af004e5825e2.png)
+![image](https://user-images.githubusercontent.com/10897900/198989400-7562241c-d2e8-4b2c-96bf-8e72e2386477.png)
 
 4. Close the PR and then create a new one just like it
 
@@ -30,6 +30,7 @@ Steps for representation:
 
 5. After click on button "Create Pull Request" get error 500 and broken PR
 
-![image](https://user-images.githubusercontent.com/10897900/189642485-d9a0aaa7-34fd-4544-aeb2-6ccd43e64b95.png)
+![image](https://user-images.githubusercontent.com/10897900/198989474-102efb4a-2aac-4fad-8346-1d16671b7e92.png)
 
-![image](https://user-images.githubusercontent.com/10897900/189642665-b21d13e2-190e-4254-a2b1-b0adbcefd4c1.png)
+![image](https://user-images.githubusercontent.com/10897900/198989518-6c2aa0ae-e9f4-406e-9a92-a93111b25149.png)
+
