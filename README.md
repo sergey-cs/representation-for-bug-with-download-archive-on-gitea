@@ -1,6 +1,6 @@
 # representation-for-bug-with-download-archive-on-gitea
 
-See more https://github.com/go-gitea/gitea/issues/21148
+See more https://github.com/go-gitea/gitea/issues/21148, https://github.com/go-gitea/gitea/issues/19810
 
 This is a repository to reproduce a bug related to the appearance of unwanted git hooks when loading the repository as an archive via the Web UI and the resulting breakdown of Pull Requests on Gitea (1.17.1)
 
