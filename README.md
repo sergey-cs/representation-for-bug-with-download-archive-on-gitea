@@ -16,6 +16,7 @@ Steps for representation:
 
 
 2. Download the repository as an archive via the Web UI
+
 ![image](https://user-images.githubusercontent.com/10897900/198987225-1d65da13-6f45-4514-80fd-29bff1253689.png)
 
 
@@ -28,5 +29,7 @@ Steps for representation:
 ![image](https://user-images.githubusercontent.com/10897900/198987723-8590c0f6-5113-40b8-9ab7-9b24b695db2a.png)
 
 5. After click on button "Create Pull Request" get error 500 and broken PR
+
 ![image](https://user-images.githubusercontent.com/10897900/189642485-d9a0aaa7-34fd-4544-aeb2-6ccd43e64b95.png)
+
 ![image](https://user-images.githubusercontent.com/10897900/189642665-b21d13e2-190e-4254-a2b1-b0adbcefd4c1.png)
